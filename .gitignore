@@ -1,0 +1,26 @@
+# Python temp files
+__pycache__/
+*.pyc
+
+# Ignore source images and exported video files
+*.gif
+*.mp4
+*.mov
+*.avi
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+*.tif
+*.svg
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# System files
+.DS_Store
